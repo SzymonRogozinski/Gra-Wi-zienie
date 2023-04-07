@@ -1,0 +1,117 @@
+#Maść lecznicza
+W buteleczce znajduje się lecznicza kataplazma,
+dobra do zwalczenia zakażenia, a dodatkowo uśmierza ból.
+Powinna starczyć na większość ran, ale dlaczego ktoś to tu zostawił?
+#Sztylet
+Na szczęście ten kto mnie tu wsadził nie przeszukał mnie zbyt dokładnie.
+Nóż ukryty w bucie, choć nie wiem dlaczego o nim pamiętam.
+Mam nadzieję, że  nim znajdę coś bardziej morderczego, upuszczę nim trochę krwi…
+#Miecz
+Jest cały wykonany z kamienia przez to ciężki i trudny w obsłudze.
+Jednak cieszę się, że go znalazłem, w końcu lepsza broń od sztyletu.
+Teraz mogę się bronić. Teraz mogę skutecznie zabijać...
+#Sejmitar
+Zagięte ostrze wykonane ze stali, osadzone w rękojeści z kości.
+Zaprawdę egzotyczna broń, choć mistrzowsko wyważona i niezwykle skuteczna,
+Zwłaszcza, gdy się chce nią ścinać głowy swych wrogów. Będę ich żniwiarzem.
+#Bicz
+Widać, że właściciel tego narzędzia nie miał w zamiarze stosować go jako broni.
+Bicz miał służyć wymierzaniu kary i utrzymania kontroli.
+Zabawne, że posłuży mi do tych samych celów, przy okazji pozwalając zachować dystans.
+#Pancerz Płytowy
+Pancerne płyty, te same którymi kamienni strażnicy okrywają torsy.
+Jest ciężki, ale zapewnia nielichą ochronę.
+Z nim na grzbiecie nie będę się obawiał, że coś mnie zabije.
+#Skórznia
+Prosta zbroja, łatwa do wykonania. 
+Nie utrudnia ruchów i jest całkiem wygodna
+Ubiór rzezimieszka, ale póki nie znajdę niczego lepszego musi mi wystarczyć.
+#Współwięzień
+Do celi wpada mężczyzna, jest obleczony w łachmany, w dłoni trzyma pałkę.
+Patrzy na mnie wzrokiem pełnym gniewu. Nie pamiętam, bym coś mu zrobił.
+„Wyjdzie stąd tylko jeden z nas!”
+#Strażnicy z kamienia
+Humanoidalny posąg, noszący pancerz z ciężkich płyt.
+Porusza się płynniej niż można by przypuszczać, nie wydaje się wcale ociężały. 
+Swoim mieczem może zdziałać więcej niż przeciętny strażnik miejski. Trzeba uważać.
+"..."
+#łowca demonów
+Wysoki mężczyzna ubrany w czerwony płaszcz, twarz skrywa za czarną maską pozbawioną ozdób.
+Za ramienia wystaje mu dwuręczny miecz przytroczony do pleców.
+Nie ucieknę przed nim. Zabiję go, albo sam zginę.
+"Nawet nie próbowałeś uratować swej duszy.Jeżeli byś stąd uciekł, zostałbyś potępiony na wieki.
+Giń!!"
+#Demon z wnętrza
+Moja kopia stoi naprzeciw mnie, ale to  tylko przebranie, iluzja.
+Jej cień ukazuję prawdę - wielki,umięśniony, i rogaty stwór.
+Jak mam w ogóle stawić mu czoła?
+"Mogliśmy razem zdobyć ten świat i wspólnie nim władać, ale ty mnie odrzuciłeś"
+#Notatka więźnia
+Jest sam, bez problemu go znajdę. Dawno tak blisko nie czułem wolności!
+Zapewniali, że będzie słaby, łatwy do sprzątnięcia!
+Kiedy już opuszczę ten loch, zemszczę się na tych, przez których tu trafiłem.
+#Dziwna Notatka
+Walczył, jak gdyby był opętany czystym złem. Pomimo przewagi liczebnej, kilkunastu ludzi padło.
+Udało się go w końcu skrępować, teraz jest w celi i mam nadzieję, że nigdy nie wyjdzie.
+#Notatka w pokoju
+Tutaj musi się to wszystko zakończyć.
+#Fragment wiersza 1
+"Przesłania możliwość sprawnego myślenia,
+głos dławi, zniekształca, oddech w charkot zmienia,
+wkłada w ręce siły, w oczy - błyskawice,
+w język - jad żmijowy, do głowy - nerwicę."
+#Fragment wiersza 2
+"Mocno chwyta gardło, na piersiach się kładzie,
+wyżerając ciało wiedzie ku zagładzie,
+niczym Dejaniry trująca koszula,
+klejąc się do duszy niby druga skóra."
+#Fragment wiersza 3
+"Strzeż się! Gdy wiedziony myślą popędliwą,
+płomień ledwo tlący podlejesz oliwą,
+nim się zorientujesz - jak pożar gorzeje.
+Im dłużej trwać będzie, tym mniej ocaleje."
+#Intro
+#|Pauza|
+.          .   _    _______    _________    _    _______    __    __    _    _______
+|\        /|  | |  |   ____|  |______   |  | |  |   ____|  |   \ |  |  | |  |   ____|
+| \  /\  / |  | |  |  |__           /  /   | |  |  |__     |    \|  |  | |  |  |__
+|  \/  \/  |  | |  |   __|        /  /     | |  |   __|    |  |\    |  | |  |   __|
+|    /\    |  | |  |  |____     /  /____   | |  |  |____   |  | \   |  | |  |  |____
+|__ /  \ __|  |_|  |___  __|  /_________|  |_|  |_______|  |__|  \__|  |_|  |_______|
+                       \_\
+
+------------------------------Wpisz cokolwiek aby zacząć-----------------------------
+#Wstęp
+Nie wiem kim byłem. 
+Nie wiem gdzie jestem i dlaczego tu trafiłem.
+Nie wiem co takiego zrobiłem.
+Ale nie poddam się, ucieknę z tego miejsca.
+Zrobię wszystko, aby stąd wyjść!
+#Przed walką z D.
+Po przeczytaniu tekstu, czuję się jak po odmówieniu żarliwej modlitwy.
+Gniew gdzieś znikł, czuję wypełniający mnie spokój.
+Nie odczuwam zmęczenia, jestem w pełni sił, jednak coś nagle się zmieniło...
+#Przed walką z Ł.
+Wyjście było niechronione, to może być jedyna szansa. Teraz!
+Ruszam szybkim krokiem ku wrotom, nie zdając sobie sprawy z niebezpieczeństwa.
+Już dotarłem do progu i znikąd, pojawił się on.
+#Zakończenie Neutralne
+Umarłem.
+Moje ciało na wieczność pozostanie w Więzieniu.
+Nie obchodzi mnie to.
+Teraz jestem spokojny.
+Teraz jestem wolny.
+#Zakończenie Złe
+Korytarz jest wolny od niebezpieczeństw.
+Widzę jego kraniec i promienie słońca przebijające się do środka.
+Zaczynam biec, ale w połowie się zatrzymuję.
+Poczułem jakby coś skręcało moje wnętrzności. 
+Czuję się tak, jakby coś oderwało się od mojej duszy.
+Po chwili jest już po wszystkim.
+Gniew, który kierował mnie ku wolności przybrał fizyczną formę.
+Demon, który był we mnie, został teraz uwolniony, a moje ciało stało się jego zabawką…
+#Zakończenie Dobre
+Udało się!
+Pokonałem zło, które mnie niszczyło od środka.
+To właśnie było celem, abym tu zwalczył demona.
+Gdy opuszczęściłem więzienie, będę mógł zacząć nowe życie.
